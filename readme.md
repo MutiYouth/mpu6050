@@ -1,0 +1,1 @@
+Smart sensors usage using raspberry pi. 
